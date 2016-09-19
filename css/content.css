@@ -1,0 +1,73 @@
+/*右边活动部分*/
+.subject .star-right{
+width: 880px;
+height: 1130px;
+background-color: #1E1F22;
+float: right;
+margin-top: 2px;
+padding: 10px 10px 0 10px;
+}
+.subject .star-right .tit{
+border-bottom: 2px solid #0F141F;
+padding-bottom: 5px;
+}
+.subject .star-right .tit h3{
+color: #ffffff;
+font-size: 15px;
+}
+.subject .star-right .book{
+text-align: center;
+margin-top: 50px;
+}
+.subject .star-right .book h3{
+color: #ffffff;
+font-size: 15px;
+margin-bottom: 10px;
+}
+.subject .star-right .book p{
+font-size: 13px;
+margin-bottom: 50px;
+}
+.subject .star-right .content{
+width: 806px;
+height: 818px;
+border: 2px solid #3E4044;
+margin: 0 auto;
+padding: 10px;
+}
+.subject .star-right .content p{
+/*width: 500px;*/
+line-height: 25px;
+font-size: 15px;
+margin-bottom: 15px;
+}
+.subject .star-right .content a{
+display: block;
+text-align: center;
+margin-bottom: 20px;
+}
+.subject .star-right .return-roof,
+.subject .star-right .return-home{
+width: 130px;
+height: 46px;
+background-color: #7659B0;
+float: right;
+color: #ffffff;
+line-height: 46px;
+text-align: center;
+border-radius: 20px;
+margin-right: 30px;
+cursor: pointer;
+font-size: 15px;
+margin-top: 20px;
+}
+.subject .star-right .return-roof{
+background-color: #636364;
+}
+.subject .star-right .return-roof:hover{
+background-color: #7659B0;
+}
+.subject .star-right .return-home:hover{
+background-color: #636364;
+}
+/*star结束*/

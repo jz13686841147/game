@@ -1,0 +1,95 @@
+.subject-right {
+    background:#1e1f22;
+    padding:0 20px;
+    width:860px;
+}
+.subject-right-hd {
+    height:43px;
+    line-height:43px;
+    border-bottom:2px solid #0f141f;
+    font-size:18px;
+    color: #fff;
+}
+.subject-right .newgame-card-wrp {
+    height:110px;
+    padding-top:30px;
+    padding-left:240px;
+}
+.subject-right .newgame-card-tab-list {
+    height:26px;
+    line-height:26px;
+    margin-bottom:19px;
+}
+.subject-right .newgame-card-tab-title {
+    width:110px;
+    text-align:center;
+    font-size:16px;
+    color: #7b7b7b;
+}
+.subject-right .search-server-box {
+    width:146px;
+    height:26px;
+    background:#000;
+    border:1px solid #3e4044;
+}
+.subject-right .server-get {
+    width:71px;
+    height:24px;
+    border:1px solid #3d2372;
+    border-radius:2px;
+    text-align:center;
+    background:url("../img/lq.fw.png") no-repeat -3px -3px;
+    line-height:24px;
+    font-size:16px;
+    color: #fff;
+    margin-left:12px;
+}
+.subject-right .newgame-card-tab-list {
+    height:26px;
+    line-height:26px;
+    margin-bottom:19px;
+}
+.subject-right .newgamer-card-tab-title {
+    width:110px;
+    text-align:right;
+    font-size:16px;
+    color: #7b7b7b;
+}
+.subject-right .giftnum {
+    width:165px;
+    height:24px;
+    background-color:#000;
+    border:1px solid #3e4044;
+}
+.subject-right .copy-giftnum {
+    font-size:14px;
+    color: #0b5b9f;
+    margin: 0 14px;
+}
+.subject-right .copy-giftnum>a{
+    color: #0b5b9f;
+}
+.subject-right .newgame-card-txt-wrp {
+    margin:0 17px 192px;
+    border:1px solid #3d3f43;
+    padding:30px 0 85px 133px;
+    border-radius:1px;
+    height: 480px;
+}
+.subject-right .newgame-card-txt-dl {
+    margin-bottom:36px;
+    height: 200px;
+}
+.subject-right .newgame-card-txt-dl dt {
+    height:38px;
+    line-height:38px;
+    font-size:16px;
+    color: #fff;
+}
+.subject-right .newgame-card-txt-dl dd {
+    padding-left:73px;
+    height:24px;
+    line-height:24px;
+    font-size:14px;
+    color: #7b7b7b;
+}

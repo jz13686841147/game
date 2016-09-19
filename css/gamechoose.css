@@ -1,0 +1,109 @@
+/*右边活动部分*/
+.star-right{
+width: 880px;
+height: 1130px;
+background-color: #1E1F22;
+float: right;
+margin-top: 2px;
+padding: 10px 10px 0 10px;
+position: relative;
+}
+.star-right .tit{
+border-bottom: 2px solid #0F141F;
+padding-bottom: 5px;
+}
+.star-right .tit h3{
+color: #ffffff;
+font-size: 15px;
+}
+
+ .star-right .tuijian{
+width: 827px;
+height: 233px;
+/*background-color: red;*/
+margin: 0 auto;
+margin-top: 20px;
+border-bottom: 2px solid #0F141F;
+}
+.star-right .tuijian h3{
+color: #ffffff;
+font-size: 15px;
+}
+.star-right .tuijian .five-five-five li{
+float: left;
+margin-top: 20px;
+margin-right: 20px;
+}
+.star-right .tuijian .quickly-xuan{
+font-size: 15px;
+display: inline-block;
+margin-top: 33px;
+margin-bottom:20px;
+}
+.star-right .tuijian .quickly-xuan input{
+width: 58px;
+height: 24px;
+line-height: 24px;
+color: #ffffff;
+margin: 0 9px;
+text-align: right;
+background-color: #000;
+}
+.star-right .tuijian .followme{
+width: 70px;
+height: 25px;
+line-height: 22px;
+border: 2px solid #9d795a;
+text-align: center;
+color: #9d795a;
+background-color: #26282C;
+margin-left:10px;
+font-size: 15px;
+font-family:"microsoft yahei";
+}
+
+.star-right .tuijian .all h3{
+margin-top: 30px;
+margin-bottom: 30px;
+}
+.star-right .tuijian .all .all-num li{
+float: left;
+width: 135px;
+height: 40px;
+line-height: 40px;
+text-align: center;
+font-size: 15px;
+background-color: #cccccc;
+margin-right:28px;
+cursor: pointer;
+background-color: #313336;
+border: 1px solid #3E4044;
+/*border-radius: 20px;*/
+}
+ .star-right .tuijian .all .all-num li a{
+color: #ffffff;
+}
+.star-right .tuijian .all .all-num .cur{
+background-color: #535559;
+}
+.star-right .tuijian .all .all-num .cur:hover{
+background-color: #313336;
+}
+.star-right .tuijian .all .all-num li:hover{
+background-color: #535559;
+}
+
+/*所有的服务器*/
+.star-right .rightnow{
+width: 782px;
+/*height: 500px;*/
+/*background-color: red;*/
+margin: 0 auto;
+margin-top:30px;
+}
+.star-right .rightnow .rightnow-all li{
+float: left;
+margin-bottom: 20px;
+margin-right: 35px;
+cursor: pointer;
+}
